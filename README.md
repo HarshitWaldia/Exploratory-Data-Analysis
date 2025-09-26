@@ -101,11 +101,11 @@ The dataset includes the following key columns:
 
 ## 🚀 Future Work
 
--- **Build a recommendation system using ratings & categories.**
+- **Build a recommendation system using ratings & categories.**
 
--- **Perform sentiment analysis on review text.**
+- **Perform sentiment analysis on review text.**
 
--- **Use ML models to predict product ratings based on price & discount.**
+- **Use ML models to predict product ratings based on price & discount.**
 
 ## 👨‍💻 Author
 
