@@ -84,8 +84,8 @@ The dataset includes the following key columns:
 ## 📌 How to Run
 1. Clone the repository:  
    ```
-   git clone https://github.com/your-username/amazon-eda.git
-   cd amazon-eda
+   git clone https://github.com/HarshitWaldia/Exploratory-Data-Analysis.git
+   cd Exploratory-Data-Analysis
    ```
 2. Install required libraries:
   ```
